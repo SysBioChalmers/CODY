@@ -1,0 +1,25 @@
+Type	Species	prediction
+Newborn	Bacteroides_theta	0.007941348745792089
+4 Months	Bacteroides_theta	0.0232920848664839
+12 Months	Bacteroides_theta	0.0131249709405351
+Newborn	Bacteroides_fragilis	0.0806657978529469
+4 Months	Bacteroides_fragilis	0.05917550348297
+12 Months	Bacteroides_fragilis	0.0285702756020432
+Newborn	Bifido_longum	0.0645232374148939
+4 Months	Bifido_longum	0.199595605666318
+12 Months	Bifido_longum	0.0079445731162
+Newborn	Bifido_breve	0.0359186608218717
+4 Months	Bifido_breve	0.05759435175831
+12 Months	Bifido_breve	0.0048906832528381
+Newborn	Bifido_adolescentis	0.0191287402723905
+4 Months	Bifido_adolescentis	0.0119729833397385
+12 Months	Bifido_adolescentis	0.0019034024305
+Newborn	Eubacterium_hallii	3.27032234839551e-5
+4 Months	Eubacterium_hallii	0
+12 Months	Eubacterium_hallii	0.0031927382756521
+Newborn	Faecalibacterium_prausnitzii	4.31402065623501e-4
+4 Months	Faecalibacterium_prausnitzii	0
+12 Months	Faecalibacterium_prausnitzii	0.0165982528852698
+Newborn	Roseburia_intestinalis	1.03442857540006e-6
+4 Months	Roseburia_intestinalis	0
+12 Months	Roseburia_intestinalis	0.0164187437341327

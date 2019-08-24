@@ -1,0 +1,25 @@
+Type	Species	experiment
+Newborn	Bacteroides_theta	0.007941348745792089
+4 Months	Bacteroides_theta	0.023850842402683998
+12 Months	Bacteroides_theta	0.013169732568160699
+Newborn	Bacteroides_fragilis	0.0806657978529469
+4 Months	Bacteroides_fragilis	0.06811329465474569
+12 Months	Bacteroides_fragilis	0.0275404921410126
+Newborn	Bifido_longum	0.0645232374148939
+4 Months	Bifido_longum	0.188582465363214
+12 Months	Bifido_longum	0.0111425097911756
+Newborn	Bifido_breve	0.0359186608218717
+4 Months	Bifido_breve	0.0645846437087857
+12 Months	Bifido_breve	0.00383929824754842
+Newborn	Bifido_adolescentis	0.0191287402723905
+4 Months	Bifido_adolescentis	0.0130250460105924
+12 Months	Bifido_adolescentis	0.003057103776571
+Newborn	Eubacterium_hallii	3.27032234839551e-5
+4 Months	Eubacterium_hallii	5.3660192475016e-7
+12 Months	Eubacterium_hallii	0.0028285719141883598
+Newborn	Faecalibacterium_prausnitzii	4.31402065623501e-4
+4 Months	Faecalibacterium_prausnitzii	8.22456528952758e-6
+12 Months	Faecalibacterium_prausnitzii	0.016970341820938997
+Newborn	Roseburia_intestinalis	1.03442857540006e-6
+4 Months	Roseburia_intestinalis	9.11443118423562e-6
+12 Months	Roseburia_intestinalis	0.0168677228081203
